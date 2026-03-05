@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG Banner -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Hi+there%2C+I%27m+Ahmed+Ramadan+Dev+%F0%9F%91%8B;VFX+Pipeline+Engineer+%F0%9F%8E%AC;Open-Source+Tool+Developer+%F0%9F%9B%A0%EF%B8%8F;Making+VFX+Pipelines+Smarter+%E2%9C%A8)](https://github.com/aramadan0096)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Hi+there%2C+I%27m+Ahmed+Ramadan+%F0%9F%91%8B;VFX+Pipeline+Engineer+%F0%9F%8E%AC;Open-Source+Tool+Developer+%F0%9F%9B%A0%EF%B8%8F;Making+VFX+Pipelines+Smarter+%E2%9C%A8)](https://github.com/aramadan0096)
 
 
 I'm a **Python developer** specializing in **VFX pipeline tools** and **compositing automation** with a focus on [Foundry Nuke](https://www.foundry.com/products/nuke-family/nuke). I love building tools that streamline production workflows and empower artists to work faster and smarter.
@@ -48,14 +48,7 @@ I'm a **Python developer** specializing in **VFX pipeline tools** and **composit
 
 ## 📫 How to Reach Me
 
-- 🐙 GitHub: [@aramadan0096](https://github.com/aramadan0096)
-
----
-
-## 📊 GitHub Stats
-
-![aramadan0096's GitHub stats](https://github-readme-stats.vercel.app/api?username=aramadan0096&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aramadan0096&layout=compact&theme=dark&hide_border=true)
+- 🐙 Linkedin: [Ahmed Ramadan](https://www.linkedin.com/in/a-ramadan0096/)
 
 ---
 
@@ -64,7 +57,3 @@ I'm a **Python developer** specializing in **VFX pipeline tools** and **composit
 > Nuke is not just a compositing tool — it's a Python playground disguised as a VFX application. 🎨🐍
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aramadan0096&color=blue&style=flat-square" alt="Profile Views" />
-</p>
