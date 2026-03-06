@@ -1,8 +1,8 @@
 <div align="center">
 
 <!-- Typing SVG Banner -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Hi+there%2C+I%27m+Ahmed+Ramadan+%F0%9F%91%8B;VFX+Pipeline+Engineer+%F0%9F%8E%AC;Open-Source+Tool+Developer+%F0%9F%9B%A0%EF%B8%8F;Making+VFX+Pipelines+Smarter+%E2%9C%A8)](https://github.com/aramadan0096)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Hi+there%2C+I%27m+Ahmed+Ramadan+%F0%9F%91%8B;VFX+Pipeline+Engineer+%F0%9F%8E%AC;Open-Source+Tool+Developer+%F0%9F%9B%A0%EF%B8%8F;Making+VFX+Pipelines+Smarter+%E2%9C%A8)](https://github.com/aramadan0096)
 
 I'm a **Python developer** specializing in **VFX pipeline tools** and **compositing automation** with a focus on [Foundry Nuke](https://www.foundry.com/products/nuke-family/nuke). I love building tools that streamline production workflows and empower artists to work faster and smarter.
 
@@ -18,13 +18,105 @@ I'm a **Python developer** specializing in **VFX pipeline tools** and **composit
 
 ## 🛠️ Tech Stack & Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<!-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Foundry Nuke](https://img.shields.io/badge/Foundry%20Nuke-000000?style=for-the-badge&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) -->
+
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/>
+  </a>
+  <a href="https://www.qt.io/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=qt" alt="qt" width="40" height="40"/>
+  </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
+  </a>
+
+<a href="https://www.foundry.com/products/nuke" target="_blank" rel="noreferrer">
+    <img src="https://www.foundry.com/sites/default/files/2021-03/ICON_NUKE-rgb-yellow-01.png" alt="nuke" width="40" height="40"/>
+  </a>
+  <a href="https://www.foundry.com/products/hiro" target="_blank" rel="noreferrer">
+    <img src="https://www.foundry.com/sites/default/files/2021-03/ICON_HIERO_rgb_yellow-01.png" alt="hiro" width="40" height="40"/>
+  </a>
+  <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/DaVinci_Resolve_Studio.png/330px-DaVinci_Resolve_Studio.png" alt="davinci resolve" width="40" height="40"/>
+  </a>
+  <a href="https://www.autodesk.com/products/maya/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" alt="maya" width="40" height="40"/>
+  </a>
+  <a href="https://www.sidefx.com/products/houdini/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Houdini3D_icon.png" alt="houdini" width="40" height="40"/>
+  </a>
+
+<a href="https://openimageio.readthedocs.io/" target="_blank" rel="noreferrer">
+    <img src="https://artwork.aswf.io/projects/openimageio/icon/black/openimageio-icon-black.png" alt="openimageio" width="40" height="40"/>
+  </a>
+  <a href="https://opencolorio.org/" target="_blank" rel="noreferrer">
+    <img src="https://landscape.aswf.io/logos/2d4849a9c8ebf6d6e9e1096d191e88739c4abd47754620e7a1c5244ebe14aa05.svg" alt="opencolorio" width="40" height="40"/>
+  </a>
+  <a href="https://opentimeline.io/" target="_blank" rel="noreferrer">
+    <img src="https://landscape.aswf.io/logos/0f87e6a0efe5e0ac26e1bb72b58d57f0415ffa9343bfd17f7d4786799b268b91.svg" alt="opentimelineio" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/nerdvegas/rez" target="_blank" rel="noreferrer">
+    <img src="https://artwork.aswf.io/projects/rez/stacked/white/rez-stacked-white.png" alt="rez" width="40" height="40"/>
+  </a>
+  <a href="https://ffmpeg.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/ffmpeg/0066cc" alt="ffmpeg" width="40" height="40"/>
+  </a>
+  <a href="https://www.awsthinkbox.com/deadline" target="_blank" rel="noreferrer">
+    <img src="https://d3g9o9u8re44ak.cloudfront.net/logo/f92ef649-db77-4104-83de-a4a15f5f0790/3169831b-58ff-4794-922c-19bf2c622f29.png" alt="thinkbox deadline" width="40" height="40"/>
+  </a>
+  <a href="https://openrv.github.io/" target="_blank" rel="noreferrer">
+    <img src="https://artwork.aswf.io/projects/openrv/icon/color/openrv-icon-color.png" alt="openrv" width="40" height="40"/>
+  </a>
+
+<a href="https://getkitsu.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.cg-wire.com/_nuxt/logo-kitsu.BYI4ao_A.png" alt="kitsu" width="40" height="40"/>
+  </a>
+  <a href="https://www.shotgridsoftware.com/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/317894?s=280&v=4" alt="shotgrid" width="40" height="40"/>
+  </a>
+
+<a href="https://opencv.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/>
+  </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  </a>
+
+<a href="https://www.kernel.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/>
+  </a>
+
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/>
+  </a>
+  <a href="https://gradio.app/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/gradio/FF7C00" alt="gradio" width="40" height="40"/>
+  </a>
+</p>
 
 - **Languages:** Python
-- **VFX Software:** Foundry Nuke, Nuke Studio
+- **VFX Software:** Foundry Nuke, Hiero, Blackmagic Davinci Resolve, Autodesk Maya, SideFX Houdini
 - **Domains:** VFX Pipeline, Asset Management, Compositing Automation, Tool Development
 
 ---
@@ -33,7 +125,8 @@ I'm a **Python developer** specializing in **VFX pipeline tools** and **composit
 
 - Advanced VFX pipeline architectures
 - Machine learning integrations for compositing workflows
-- Cloud-based asset management systems
+
+<!-- - Cloud-based asset management systems -->
 
 ---
 
@@ -48,7 +141,8 @@ I'm a **Python developer** specializing in **VFX pipeline tools** and **composit
 
 ## 📫 How to Reach Me
 
-- 🐙 Linkedin: [Ahmed Ramadan](https://www.linkedin.com/in/a-ramadan0096/)
+<a href="https://www.linkedin.com/in/a-ramadan0096/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=" LinkedIn" height="30" width="40" /></a>
+</p>
 
 ---
 
@@ -57,3 +151,10 @@ I'm a **Python developer** specializing in **VFX pipeline tools** and **composit
 > Nuke is not just a compositing tool — it's a Python playground disguised as a VFX application. 🎨🐍
 
 ---
+
+## 📊 GitHub Stats:
+
+![](https://nirzak-streak-stats.vercel.app/?user=aramadan0096&theme=dark&hide_border=false)<br/>
+
+---
+
