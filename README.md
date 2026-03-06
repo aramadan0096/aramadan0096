@@ -143,7 +143,8 @@ I'm a **Python developer** specializing in **VFX pipeline tools** and **composit
 
 <a href="https://www.linkedin.com/in/a-ramadan0096/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=" LinkedIn" height="30" width="40" /></a>
 </p>
-
+<a href="https://aramadan0096.github.io/" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/peoples-avatars/account-white-icon.png" alt=" LinkedIn" height="30" width="40" /></a>
+</p>
 ---
 
 ## ⚡ Fun Fact
