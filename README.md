@@ -1,15 +1,14 @@
 <div align="center">
 
 <!-- Typing SVG Banner -->
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Hi+there%2C+I%27m+Ahmed+Ramadan+%F0%9F%91%8B;VFX+Pipeline+Technical+Director+%F0%9F%8E%AC;Open-Source+Tool+Developer+%F0%9F%9B%A0%EF%B8%8F;Making+VFX+Pipelines+Smarter+%E2%9C%A8)](https://github.com/aramadan0096)
 
 I'm a **Python developer** specializing in **VFX pipeline tools** and **compositing automation** with a focus on [Foundry Nuke](https://www.foundry.com/products/nuke-family/nuke). I love building tools that streamline production workflows and empower artists to work faster and smarter.
-
 ---
 
 ## 🔭 What I'm Working On
 
+- 🎬 **[StaX](https://github.com/aramadan0096/Stax)** — An open-source advanced solution for mass production stock footage management in VFX pipelines
 - 🎬 **[StaX](https://github.com/aramadan0096/Stax)** — An open-source advanced solution for mass production stock footage management in VFX pipelines
 - 🤖 **[Nuke AI Denoiser](https://github.com/aramadan0096/Nuke-AI-Denoiser)** — AI-powered denoising integration for Foundry Nuke
 - 🎮 **[Nuke Games](https://github.com/aramadan0096/nuke-games)** — Fun experiments inside Nuke's compositing environment
@@ -109,7 +108,6 @@ I'm a **Python developer** specializing in **VFX pipeline tools** and **composit
   <a href="https://gradio.app/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/gradio/FF7C00" alt="gradio" width="40" height="40"/>
   </a>
-</div>
 
 - **Languages:** Python
 - **VFX Software:** Foundry Nuke, Hiero, Blackmagic Davinci Resolve, Autodesk Maya, SideFX Houdini
@@ -138,7 +136,7 @@ I'm a **Python developer** specializing in **VFX pipeline tools** and **composit
 ## 📫 How to Reach Me
 
 <a href="https://www.linkedin.com/in/a-ramadan0096/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=" LinkedIn" height="30" width="40" /></a>
-<a href="https://aramadan0096.github.io/" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/peoples-avatars/account-white-icon.png" alt=" LinkedIn" height="30" width="40" /></a>
+<a href="https://aramadan0096.github.io/" target="blank"><img align="center" src="https://clipart-library.com/2023/logo-internet-chemiphase-updated-website-goes-live-chemiphase-ltd-12.png" alt=" LinkedIn" height="40" width="40" /></a>
 
 ---
 
@@ -154,3 +152,4 @@ I'm a **Python developer** specializing in **VFX pipeline tools** and **composit
 
 ---
 
+</div>
