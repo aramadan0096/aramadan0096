@@ -51,66 +51,66 @@ I'm a **Python developer** specializing in **VFX pipeline tools** and **composit
   <img src="https://www.foundry.com/sites/default/files/2021-03/ICON_HIERO_rgb_yellow-01.png"
        alt="hiro" width="35" height="35" style="display:block;"/>
 </a>
-  <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noreferrer"
-     style="display:inline-flex;align-items:center;justify-content:center;
-          background:#242938;border-radius:10px;
-          width:40px;height:40px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/DaVinci_Resolve_Studio.png/330px-DaVinci_Resolve_Studio.png" alt="davinci resolve" width="30" height="30"/>
-  </a>
-  <a href="https://www.autodesk.com/products/maya/" target="_blank" rel="noreferrer"   style="display:inline-flex;align-items:center;justify-content:center;
-          background:#242938;border-radius:10px;
-          width:40px;height:40px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" alt="maya" width="30" height="30"/>
-  </a>
-  <a href="https://www.sidefx.com/products/houdini/" target="_blank" rel="noreferrer"
-     style="display:inline-flex;align-items:center;justify-content:center;
-          background:#242938;border-radius:10px;
-          width:40px;height:40px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Houdini3D_icon.png" alt="houdini" width="30" height="30"/>
-  </a>
+<a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noreferrer"
+    style="display:inline-flex;align-items:center;justify-content:center;
+        background:#242938;border-radius:10px;
+        width:40px;height:40px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/DaVinci_Resolve_Studio.png/330px-DaVinci_Resolve_Studio.png" alt="davinci resolve" width="30" height="30"/>
+</a>
+<a href="https://www.autodesk.com/products/maya/" target="_blank" rel="noreferrer"   style="display:inline-flex;align-items:center;justify-content:center;
+        background:#242938;border-radius:10px;
+        width:40px;height:40px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" alt="maya" width="30" height="30"/>
+</a>
+<a href="https://www.sidefx.com/products/houdini/" target="_blank" rel="noreferrer"
+  style="display:inline-flex;align-items:center;justify-content:center;
+      background:#242938;border-radius:10px;
+      width:40px;height:40px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Houdini3D_icon.png" alt="houdini" width="30" height="30"/>
+</a>
 
 <a href="https://openimageio.readthedocs.io/" target="_blank" rel="noreferrer"
-   style="display:inline-flex;align-items:center;justify-content:center;
-          background:#242938;border-radius:10px;
-          width:40px;height:40px;">
-    <img src="https://artwork.aswf.io/projects/openimageio/icon/gradient/openimageio-icon-gradient.png" alt="openimageio" width="30" height="30"/>
-  </a>
-  <a href="https://opencolorio.org/" target="_blank" rel="noreferrer"
-     style="display:inline-flex;align-items:center;justify-content:center;
-          background:#242938;border-radius:10px;
-          width:40px;height:40px;">
-    <img src="https://artwork.aswf.io/projects/opencolorio/icon/color/opencolorio-icon-color.svg" alt="opencolorio" width="30" height="30"/>
-  </a>
-  <a href="https://opentimeline.io/" target="_blank" rel="noreferrer"
-     style="display:inline-flex;align-items:center;justify-content:center;
-          background:#242938;border-radius:10px;
-          width:40px;height:40px;">
-    <img src="https://artwork.aswf.io/projects/open-timeline-io/icon/color/open-timeline-io-icon-color.svg" alt="opentimelineio" width="30" height="30"/>
-  </a>
-  <a href="https://github.com/nerdvegas/rez" target="_blank" rel="noreferrer"
-     style="display:inline-flex;align-items:center;justify-content:center;
-          background:#242938;border-radius:10px;
-          width:40px;height:40px;">
-    <img src="https://artwork.aswf.io/projects/rez/icon/white/rez-icon-white.svg" alt="rez" width="30" height="30"/>
-  </a>
-  <a href="https://ffmpeg.org/" target="_blank" rel="noreferrer"
-     style="display:inline-flex;align-items:center;justify-content:center;
-          background:#242938;border-radius:10px;
-          width:40px;height:40px;">
-    <img src="https://cdn.simpleicons.org/ffmpeg/0066cc" alt="ffmpeg" width="30" height="30"/>
-  </a>
-  <a href="https://www.awsthinkbox.com/deadline" target="_blank" rel="noreferrer"
-     style="display:inline-flex;align-items:center;justify-content:center;
-          background:#242938;border-radius:10px;
-          width:40px;height:40px;">
-    <img src="https://d3g9o9u8re44ak.cloudfront.net/logo/f92ef649-db77-4104-83de-a4a15f5f0790/3169831b-58ff-4794-922c-19bf2c622f29.png" alt="thinkbox deadline" width="30" height="30"/>
-  </a>
-  <a href="https://openrv.github.io/" target="_blank" rel="noreferrer"
-     style="display:inline-flex;align-items:center;justify-content:center;
-          background:#242938;border-radius:10px;
-          width:40px;height:40px;">
-    <img src="https://artwork.aswf.io/projects/openrv/icon/color/openrv-icon-color.png" alt="openrv" width="30" height="30"/>
-  </a>
+style="display:inline-flex;align-items:center;justify-content:center;
+      background:#242938;border-radius:10px;
+      width:40px;height:40px;">
+<img src="https://artwork.aswf.io/projects/openimageio/icon/gradient/openimageio-icon-gradient.png" alt="openimageio" width="30" height="30"/>
+</a>
+<a href="https://opencolorio.org/" target="_blank" rel="noreferrer"
+  style="display:inline-flex;align-items:center;justify-content:center;
+      background:#242938;border-radius:10px;
+      width:40px;height:40px;">
+<img src="https://artwork.aswf.io/projects/opencolorio/icon/color/opencolorio-icon-color.svg" alt="opencolorio" width="30" height="30"/>
+</a>
+<a href="https://opentimeline.io/" target="_blank" rel="noreferrer"
+    style="display:inline-flex;align-items:center;justify-content:center;
+        background:#242938;border-radius:10px;
+        width:40px;height:40px;">
+  <img src="https://artwork.aswf.io/projects/open-timeline-io/icon/color/open-timeline-io-icon-color.svg" alt="opentimelineio" width="30" height="30"/>
+</a>
+<a href="https://github.com/nerdvegas/rez" target="_blank" rel="noreferrer"
+    style="display:inline-flex;align-items:center;justify-content:center;
+        background:#242938;border-radius:10px;
+        width:40px;height:40px;">
+  <img src="https://artwork.aswf.io/projects/rez/icon/white/rez-icon-white.svg" alt="rez" width="30" height="30"/>
+</a>
+<a href="https://ffmpeg.org/" target="_blank" rel="noreferrer"
+    style="display:inline-flex;align-items:center;justify-content:center;
+        background:#242938;border-radius:10px;
+        width:40px;height:40px;">
+  <img src="https://cdn.simpleicons.org/ffmpeg/0066cc" alt="ffmpeg" width="30" height="30"/>
+</a>
+<a href="https://www.awsthinkbox.com/deadline" target="_blank" rel="noreferrer"
+    style="display:inline-flex;align-items:center;justify-content:center;
+        background:#242938;border-radius:10px;
+        width:40px;height:40px;">
+  <img src="https://d3g9o9u8re44ak.cloudfront.net/logo/f92ef649-db77-4104-83de-a4a15f5f0790/3169831b-58ff-4794-922c-19bf2c622f29.png" alt="thinkbox deadline" width="30" height="30"/>
+</a>
+<a href="https://openrv.github.io/" target="_blank" rel="noreferrer"
+    style="display:inline-flex;align-items:center;justify-content:center;
+        background:#242938;border-radius:10px;
+        width:40px;height:40px;">
+  <img src="https://artwork.aswf.io/projects/openrv/icon/color/openrv-icon-color.png" alt="openrv" width="30" height="30"/>
+</a>
 
 <a href="https://getkitsu.org/" target="_blank" rel="noreferrer"
    style="display:inline-flex;align-items:center;justify-content:center;
@@ -172,7 +172,7 @@ I'm a **Python developer** specializing in **VFX pipeline tools** and **composit
           width:40px;height:40px;">
     <img src="https://cdn.simpleicons.org/gradio/FF7C00" alt="gradio" width="30" height="30"/>
   </a>
-</p>
+</div>
 
 - **Languages:** Python
 - **VFX Software:** Foundry Nuke, Hiero, Blackmagic Davinci Resolve, Autodesk Maya, SideFX Houdini
@@ -201,9 +201,7 @@ I'm a **Python developer** specializing in **VFX pipeline tools** and **composit
 ## 📫 How to Reach Me
 
 <a href="https://www.linkedin.com/in/a-ramadan0096/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=" LinkedIn" height="30" width="40" /></a>
-</p>
 <a href="https://aramadan0096.github.io/" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/peoples-avatars/account-white-icon.png" alt=" LinkedIn" height="30" width="40" /></a>
-</p>
 
 ---
 
