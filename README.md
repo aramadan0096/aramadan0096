@@ -5,6 +5,12 @@
 
 I'm a **Python developer** specializing in **VFX pipeline tools** and **compositing automation** with a focus on [Foundry Nuke](https://www.foundry.com/products/nuke-family/nuke). I love building tools that streamline production workflows and empower artists to work faster and smarter.
 
+<p align="center">
+  <a href="https://aramadan0096.github.io/"><img src="https://img.shields.io/badge/Website-aramadan0096-blue?style=flat-square&logo=google-chrome&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/a-ramadan0096"><img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Ramadan-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.imdb.com/name/nm12046362/"><img src="https://img.shields.io/badge/IMDb-Link-blue?logo=imdb-Ahmed%20Ramadan-13AFF0?style=flat-square&logo=artstation&logoColor=white"></a>
+</p>
+
 ---
 
 ## 🔭 What I'm Working On
@@ -133,23 +139,31 @@ I'm a **Python developer** specializing in **VFX pipeline tools** and **composit
 - Python best practices for VFX environments
 
 ---
-
+<!-- 
 ## 📫 How to Reach Me
 
 <a href="https://www.linkedin.com/in/a-ramadan0096/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=" LinkedIn" height="30" width="40" /></a>
 <a href="https://aramadan0096.github.io/" target="blank"><img align="center" src="https://clipart-library.com/2023/logo-internet-chemiphase-updated-website-goes-live-chemiphase-ltd-12.png" alt=" LinkedIn" height="40" width="40" /></a>
 
----
+--- -->
 
-## ⚡ Fun Fact
+<!-- ## ⚡ Fun Fact
 
 > Nuke is not just a compositing tool — it's a Python playground disguised as a VFX application. 🎨🐍
 
----
+--- -->
 
 ## 📊 GitHub Stats:
 
-![](https://nirzak-streak-stats.vercel.app/?user=aramadan0096&theme=dark&hide_border=false)<br/>
+<!-- ![](https://nirzak-streak-stats.vercel.app/?user=aramadan0096&theme=dark&hide_border=false)<br/> -->
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aramadan0096&theme=tokyonight" alt="Profile Summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aramadan0096&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
